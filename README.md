@@ -23,13 +23,13 @@ I build predictive models and AI systems for real-world problems. 🌟
 ## **Languages and Tools:** 
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40"/> Python &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="40"/> TensorFlow &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40"/> PyTorch &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="40"/> Jupyter &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="40"/> VS Code &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40"/> Git &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40"/> NumPy
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50"/><br>Python<br><br>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="50"/><br>TensorFlow<br><br>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="50"/><br>PyTorch<br><br>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50"/><br>Jupyter<br><br>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="50"/><br>VS Code<br><br>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50"/><br>Git<br><br>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="50"/><br>NumPy
 </p>
 
 ---
