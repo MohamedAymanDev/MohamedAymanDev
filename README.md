@@ -1,6 +1,6 @@
 # Hello my friend 👋
 
-![]("C:\Users\Mahmoud Ayman\Downloads\im.jpeg")
+![My Photo](im.jpeg)
 
 I am **Mohamed Ayman**, a 💻 **Machine Learning Engineer & AI Researcher** from Egypt.  
 I build predictive models and AI systems for real-world problems. 🌟  
