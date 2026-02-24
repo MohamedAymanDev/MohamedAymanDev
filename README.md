@@ -1,13 +1,12 @@
-# Hello there 👋
+# Hello my friend 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 I am Mohamed Ayman, a 💻 **Machine Learning Engineer & AI Researcher** from Egypt.  
-I build predictive models, NLP & CV solutions, and AI systems for real-world problems. 🌟  
+I build predictive models, and AI systems for real-world problems. 🌟  
 
 * 🧐 Interested in Machine Learning, Deep Learning, NLP, Computer Vision & AI Research.
 * 💼 Freelance ML projects on [Upwork](https://www.upwork.com/freelancers/~01688164c04bcb0a5b)
-* 🎓 B.Sc. in Civil Engineering, specialized in AI & ML.
 * 🌱 Currently learning advanced ML, Reinforcement Learning, and deploying AI models.
 * 💻 3+ years hands-on experience in ML/AI projects and Python programming.
 * ✍🏻 Writing tutorials & sharing knowledge via GitHub.
@@ -16,8 +15,6 @@ I build predictive models, NLP & CV solutions, and AI systems for real-world pro
   <summary>Achievements & Certifications</summary>
   <br>
 
-* 🏆 Completed **DataCamp ML Specialization**
-* 🏅 Completed **Deep Learning & NLP courses (Coursera / freeCodeCamp)**
 * 💡 Active in AI research & ML competitions  
 * 🌐 Open for collaborations and freelance AI projects
 </details>
