@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamed010ayman" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="[https://www.upwork.com/freelancers/~YOUR_UPWORK](https://www.upwork.com/freelancers/~01688164c04bcb0a5b)/" title="Upwork Profile">Upwork</a></code>
+  <code><a href="https://www.upwork.com/freelancers/~01688164c04bcb0a5b" title="Upwork Profile">Upwork</a></code>
   <code><a href="https://www.facebook.com/m.hamed.ayman.276319/" title="Facebook Profile">Facebook</a></code>
   <code><a href="mailto:mohamed.ayman.yahya1@gmail.com" title="Email">Email</a></code>
   <code>📞 +20 106 497 6258</code>
@@ -22,9 +22,9 @@ Hi, I'm Mohamed Ayman 👋<br>
 
 <hr>
 
-<h2 align="center">🔥 ML & AI Tech Stack</h2>
+<h2 align="center">🔥 ML & AI Tools & Programs</h2>
 <p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,flask,django,sql,postgres,git,github,vscode,jupyter"/>
+  <img height="30" src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,git,github,vscode,colab,flask,django,sql,postgres"/>
 </p>
 
 <hr>
@@ -68,7 +68,6 @@ Hi, I'm Mohamed Ayman 👋<br>
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-ML%20Specialization-blue?style=for-the-badge&logo=datacamp"/>
   <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-red?style=for-the-badge&logo=coursera"/>
-  <img src="https://img.shields.io/badge/Kaggle-Badges-yellow?style=for-the-badge&logo=kaggle"/>
 </p>
 
 <hr>
@@ -76,5 +75,5 @@ Hi, I'm Mohamed Ayman 👋<br>
 <h2 align="center">💬 Let's Connect</h2>
 <p align="center">
 Open for ML Projects, AI Research Collaborations & Freelance Opportunities 🚀<br>
-LinkedIn | Facebook | Email | Phone
+LinkedIn | Upwork | Facebook | Email | Phone
 </p>
