@@ -24,23 +24,12 @@ I build predictive models and AI systems for real-world problems. 🌟
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="40"/> Python &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-ar21.svg" height="40"/> scikit-learn &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="40"/> TensorFlow &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40"/> PyTorch &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/keras/keras-ar21.svg" height="40"/> Keras &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40"/> NumPy &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-ar21.svg" height="40"/> Pandas &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg" height="40"/> Matplotlib &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-ar21.svg" height="40"/> Seaborn &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" height="40"/> OpenCV &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nltk/nltk-ar21.svg" height="40"/> NLTK &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/spacyio/spacyio-ar21.svg" height="40"/> SpaCy &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="40"/> Jupyter &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-ar21.svg" height="40"/> Colab &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40"/> Git &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="40"/> GitHub &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="40"/> VS Code &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/bashlang/bashlang-ar21.svg" height="40"/> Bash
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="40"/> Git &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40"/> NumPy
 </p>
 
 ---
