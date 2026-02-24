@@ -20,10 +20,35 @@ I build predictive models and AI systems for real-world problems. 🌟
 
 ---
 
-## 🔧 Technologies & Tools
+## **Languages and Tools:** 
+
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Mohamed's github stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed010Ayman&show_icons=true&hide_border=true" />
+  </a>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/keras/keras-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas-dev/pandas-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/seaborn/seaborn-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nltk/nltk-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/spacyio/spacyio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_colab/google_colab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/bashlang/bashlang-ar21.svg"></code>
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,colab,git,github,vscode,jupyterlab" height="50"/>
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Mohamed010Ayman/Mohamed010Ayman.svg" />
 </p>
 
 ---
