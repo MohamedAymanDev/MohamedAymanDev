@@ -6,8 +6,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamed010ayman" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="https://www.kaggle.com/YOUR_KAGGLE" title="Kaggle Profile">Kaggle</a></code>
-  <code><a href="https://www.upwork.com/freelancers/~YOUR_UPWORK/" title="Upwork Profile">Upwork</a></code>
+  <code><a href="[https://www.upwork.com/freelancers/~YOUR_UPWORK](https://www.upwork.com/freelancers/~01688164c04bcb0a5b)/" title="Upwork Profile">Upwork</a></code>
   <code><a href="https://www.facebook.com/m.hamed.ayman.276319/" title="Facebook Profile">Facebook</a></code>
   <code><a href="mailto:mohamed.ayman.yahya1@gmail.com" title="Email">Email</a></code>
   <code>📞 +20 106 497 6258</code>
