@@ -44,7 +44,6 @@ I build predictive models and AI systems for real-world problems. 🌟
 
 - [Heart Disease Prediction](https://github.com/Mohamed010Ayman/Heart-Disease-Prediction) – A predictive ML model analyzing patient data to detect heart disease risk.  
 - [Fraud Detection](https://github.com/Mohamed010Ayman/Fraud-Detection-ML) – Detect financial fraud using machine learning models.  
-- [Sentiment Analysis](https://github.com/Mohamed010Ayman/Sentiment-Analysis-NLP) – NLP project to analyze social media sentiment and opinions.  
 
 ---
 
