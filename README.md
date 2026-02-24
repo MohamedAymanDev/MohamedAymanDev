@@ -22,8 +22,8 @@ I build predictive models and AI systems for real-world problems. 🌟
 
 ## 🔧 Technologies & Tools
 
-<p float="left">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,colab,git,github,vscode" height="60"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,colab,git,github,vscode,jupyterlab" height="50"/>
 </p>
 
 ---
@@ -32,15 +32,15 @@ I build predictive models and AI systems for real-world problems. 🌟
 
 <p align="center">
 <a href="https://github.com/YOUR_USERNAME">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="Mohamed's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/YOUR_USERNAME">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=false" />
 </a>
 <br>
 <a href="https://github.com/YOUR_USERNAME">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&column=7" />
 </a>
 </p>
 
