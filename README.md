@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Ayman+👋;Machine+Learning+Engineer;AI+Researcher;Data+Driven+Problem+Solver&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Ayman;Machine+Learning+Engineer;AI+Researcher;Data+Driven+Problem+Solver&center=true&size=30">
 </h1>
 
 <h5 align="center">
@@ -24,7 +24,7 @@ Hi, I'm Mohamed Ayman 👋<br>
 
 <h2 align="center">🔥 ML & AI Tools & Programs</h2>
 <p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,git,github,vscode,colab,flask,django,sql,postgres"/>
+  <img height="30" src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,colab,git,github,vscode"/>
 </p>
 
 <hr>
