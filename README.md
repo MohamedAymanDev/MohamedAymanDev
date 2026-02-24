@@ -1,79 +1,40 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME">
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Ayman;Machine+Learning+Engineer;AI+Researcher;Data+Driven+Problem+Solver&center=true&size=30">
-</h1>
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamed010ayman" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="https://www.upwork.com/freelancers/~01688164c04bcb0a5b" title="Upwork Profile">Upwork</a></code>
-  <code><a href="https://www.facebook.com/m.hamed.ayman.276319/" title="Facebook Profile">Facebook</a></code>
-  <code><a href="mailto:mohamed.ayman.yahya1@gmail.com" title="Email">Email</a></code>
-  <code>📞 +20 106 497 6258</code>
-</h5>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<p align="center">
-Hi, I'm Mohamed Ayman 👋<br>
-💻 Machine Learning Engineer & AI Researcher from Egypt 🇪🇬<br>
-🎓 Specialized in ML, Deep Learning, NLP & Computer Vision<br>
-🤖 Building intelligent systems & predictive models that solve real-world problems<br>
-🚀 Currently working on ML projects, AI research, and freelance solutions
-</p>
+My name is Mohamed Ayman and I'm a Machine Learning / AI Engineer from Egypt. You can find me on [LinkedIn](https://www.linkedin.com/in/mohamed010ayman), or on [Upwork](https://www.upwork.com/freelancers/~01688164c04bcb0a5b), or on [Facebook](https://www.facebook.com/m.hamed.ayman.276319/), or reach me via email: mohamed.ayman.yahya1@gmail.com
 
-<hr>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SciKit_Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Notebook-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Notebook-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
-<h2 align="center">🔥 ML & AI Tools & Programs</h2>
-<p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,opencv,nltk,spacy,jupyter,colab,git,github,vscode"/>
-</p>
+## ✍️ Featured ML Projects
 
-<hr>
+<!-- PROJECT-LIST:START -->
+- [Heart Disease Prediction](https://github.com/YOUR_USERNAME/Heart-Disease-Prediction) – Predicting heart disease using ML models
+- [Fraud Detection ML](https://github.com/YOUR_USERNAME/Fraud-Detection-ML) – Detecting financial fraud with supervised learning
+- [Sentiment Analysis NLP](https://github.com/YOUR_USERNAME/Sentiment-Analysis-NLP) – Classifying text sentiment using NLP techniques
+<!-- PROJECT-LIST:END -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 📈 GitHub Stats
 
-<hr>
-
-<h2 align="center">🚀 Featured ML Projects</h2>
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/Heart-Disease-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Heart-Disease-Prediction&theme=tokyonight&hide_border=true&border_radius=10"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/Fraud-Detection-ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Fraud-Detection-ML&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/Sentiment-Analysis-NLP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sentiment-Analysis-NLP&theme=tokyonight&hide_border=true&border_radius=10"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed's GitHub Stats" />
 </a>
 
-</div>
-
-<hr>
-
-<h2 align="center">📈 GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">🏆 Achievements & Certificates</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/DataCamp-ML%20Specialization-blue?style=for-the-badge&logo=datacamp"/>
-  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-red?style=for-the-badge&logo=coursera"/>
-</p>
-
-<hr>
-
-<h2 align="center">💬 Let's Connect</h2>
-<p align="center">
-Open for ML Projects, AI Research Collaborations & Freelance Opportunities 🚀<br>
-LinkedIn | Upwork | Facebook | Email | Phone
-</p>
+## 💬 Let's Connect
+LinkedIn | Upwork | Facebook | Email | Phone: +20 106 497 6258
