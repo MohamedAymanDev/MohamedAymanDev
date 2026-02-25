@@ -14,7 +14,7 @@ I build predictive models and AI systems for real-world problems. 🌟
 <details>
   <summary>🏆 Achievements & Certifications</summary>
   <br>
-* 💡 Active in AI research & ML competitions  
+* 💡 Active in AI research & ML competitions
 * 🌐 Open for collaborations and freelance AI projects
 </details>
 
