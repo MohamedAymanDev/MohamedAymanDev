@@ -8,7 +8,7 @@ I build predictive models and AI systems for real-world problems. 🌟
 * 🧐 Interested in Machine Learning, Deep Learning, NLP, Computer Vision & AI Research.  
 * 💼 Freelance ML projects on [Upwork](https://www.upwork.com/freelancers/~01688164c04bcb0a5b)  
 * 🌱 Currently learning advanced ML, Reinforcement Learning, and deploying AI models.  
-* 💻 3+ years hands-on experience in ML/AI projects and Python programming.  
+* 💻 1 years hands-on experience in ML/AI projects and Python programming.  
 * ✍🏻 Writing tutorials & sharing knowledge via GitHub.
 
 <details>
