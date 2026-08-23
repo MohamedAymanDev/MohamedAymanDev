@@ -1,58 +1,225 @@
-# Hello my friend 👋
+# 👋 Hi, I'm Mohamed Ayman
 
-![My Photo](im.jpeg)
+### 🤖 Aspiring Machine Learning Engineer | AI Student | Generative AI & RAG Enthusiast
 
-I am **Mohamed Ayman**, a 💻 **Machine Learning Engineer & AI Researcher** from Egypt.  
-I build predictive models and AI systems for real-world problems. 🌟  
+I'm **Mohamed Ayman**, an Artificial Intelligence student from Egypt passionate about building practical AI systems and solving real-world problems using **Machine Learning, Deep Learning, NLP, and Generative AI**.
 
-* 🧐 Interested in Machine Learning, Deep Learning, NLP, Computer Vision & AI Research.  
-* 💼 Freelance ML projects on [Upwork](https://www.upwork.com/freelancers/~01688164c04bcb0a5b)  
-* 🌱 Currently learning advanced ML, Reinforcement Learning, and deploying AI models.  
-* 💻 1 years hands-on experience in ML/AI projects and Python programming.  
-* ✍🏻 Writing tutorials & sharing knowledge via GitHub.
-
-<details>
-  <summary>🏆 Achievements & Certifications</summary>
-  <br>
-* 💡 Active in AI research & ML competitions
-* 🌐 Open for collaborations and freelance AI projects
-</details>
+* 🎓 **Artificial Intelligence Student** at Benha University
+* 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs & Generative AI**
+* 🔎 Currently focusing on **RAG systems, LLM applications, embeddings, semantic search, and AI evaluation**
+* 🧠 Experienced in building end-to-end Machine Learning and AI applications
+* 🚀 Interested in **Generative AI, RAG, LLMs, and AI Agents**
+* 💻 Building projects using **Python, Scikit-learn, TensorFlow, LangChain, Hugging Face, ChromaDB, and FastAPI**
+* 🤝 Open to internships, collaborations, and AI/ML projects
 
 ---
 
-## **Languages and Tools:** 
+## 🚀 What I'm Working On
+
+### 🔥 Generative AI & RAG
+
+Currently developing and improving **Retrieval-Augmented Generation (RAG)** systems, including:
+
+* 📚 Document parsing and text preprocessing
+* ✂️ Intelligent text chunking
+* 🔢 Text embeddings
+* 🔍 Semantic search and Top-K retrieval
+* 🗄️ Vector databases
+* 🤖 LLM-based grounded generation
+* 📊 RAG evaluation and retrieval metrics
+* 🎯 Citation validation and groundedness
+* 🛡️ Confidence-based refusal and unsupported-claim detection
+* ⚡ FastAPI-based AI backends
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+**Python | C++ | SQL**
+
+### 🤖 Machine Learning
+
+* Scikit-learn
+* Supervised Learning
+* Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* Cross-Validation
+* Hyperparameter Tuning
+
+### 🧠 Deep Learning
+
+* TensorFlow
+* Keras
+* CNN
+* RNN
+* LSTM
+* GRU
+
+### ✨ Generative AI & LLMs
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Embeddings
+* Semantic Search
+* Grounded Generation
+* LLM Evaluation
+
+### 🔤 NLP
+
+* Text Preprocessing
+* Tokenization
+* Vectorization
+* Text Classification
+* Sequence Modeling
+
+### 🔎 RAG & AI Tools
+
+* LangChain
+* Hugging Face
+* Sentence Transformers
+* ChromaDB
+
+### ⚙️ Backend & Development
+
+* FastAPI
+* REST APIs
+* Uvicorn
+* Git
+* GitHub
+
+### 📊 Data Analysis
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 NG59 Grounded RAG Assistant
+
+An end-to-end **Retrieval-Augmented Generation system** built around the NICE NG59 clinical guideline.
+
+**Key features:**
+
+* 📄 PDF parsing and document processing
+* ✂️ Text chunking and preprocessing
+* 🔢 Embedding generation
+* 🔍 Top-K semantic retrieval
+* 🗄️ ChromaDB vector database
+* 🤖 Grounded question answering
+* 📑 Citation validation
+* 🎯 Confidence-based refusal
+* 🛡️ Unsupported-claim detection
+* 📊 Retrieval and answer evaluation
+* ⚡ FastAPI backend
+* 🌐 Interactive web frontend
+
+**Technologies:**
+`Python` `LangChain` `Hugging Face` `Sentence Transformers` `ChromaDB` `FastAPI` `RAG` `LLMs`
+
+---
+
+### ❤️ Heart Disease Prediction
+
+Machine Learning classification project for predicting heart disease risk.
+
+**Technologies:**
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+🔗 [View Project](https://github.com/Mohamed010Ayman/Heart-Disease-Prediction)
+
+---
+
+### 💳 Fraud Detection
+
+Machine Learning project focused on detecting fraudulent financial transactions.
+
+**Technologies:**
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+🔗 [View Project](https://github.com/Mohamed010Ayman/Fraud-Detection-ML)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Artificial Intelligence**
+Faculty of Engineering, Benha University
+**2023 – 2027**
+
+---
+
+## 📜 Training & Certifications
+
+### Machine Learning Training — NTI Egypt
+
+* Machine Learning using Python and Scikit-learn
+* Supervised and Unsupervised Learning
+* Model Training and Evaluation
+* Practical Machine Learning Projects
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50"/> Python &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="50"/> TensorFlow &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="50"/> PyTorch
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed010Ayman&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50"/> Jupyter &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="50"/> VS Code &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50"/> Git
-</p>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="50"/> NumPy
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed010Ayman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ✨ Featured ML Projects
+## 📊 Most Used Languages
 
-- [Heart Disease Prediction](https://github.com/Mohamed010Ayman/Heart-Disease-Prediction) – A predictive ML model analyzing patient data to detect heart disease risk.  
-- [Fraud Detection](https://github.com/Mohamed010Ayman/Fraud-Detection-ML) – Detect financial fraud using machine learning models.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed010Ayman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 💬 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed010ayman" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/> LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.upwork.com/freelancers/~01688164c04bcb0a5b" target="_blank"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/> Upwork</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://www.facebook.com/m.hamed.ayman.276319/" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/facebook-new.png"/> Facebook</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:mohamed.ayman.yahya1@gmail.com"><img src="https://img.icons8.com/material-outlined/27/000000/new-post.png"/> Email</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/mohamed010ayman">
+  <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
+  LinkedIn
+</a>
+
+  |  
+
+<a href="https://www.upwork.com/freelancers/~01688164c04bcb0a5b">
+  <img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/>
+  Upwork
+</a>
+
+  |  
+
+<a href="mailto:mohamed.ayman.yahya1@gmail.com">
+  <img src="https://img.icons8.com/material-outlined/27/000000/new-post.png"/>
+  Email
+</a>
+
+  |  
+
 📞 +20 106 497 6258
+
 </p>
+
+---
+
+### 💡 "Building AI systems that solve real-world problems."
