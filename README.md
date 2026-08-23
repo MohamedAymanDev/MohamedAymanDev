@@ -4,17 +4,30 @@
   <img src="./im.jpeg" alt="Mohamed Ayman" width="800"/>
 </p>
 
-### 🤖 Aspiring Machine Learning Engineer | AI Student | Generative AI & RAG Enthusiast
+<h3 align="center">
+  🤖 Aspiring Machine Learning Engineer | AI Student | Generative AI & RAG Enthusiast
+</h3>
 
-I'm **Mohamed Ayman**, an Artificial Intelligence student from Egypt passionate about building practical AI systems and solving real-world problems using **Machine Learning, Deep Learning, NLP, and Generative AI**.
+<p align="center">
+  <b>Building practical AI systems with Machine Learning, Deep Learning, NLP & Generative AI.</b>
+</p>
 
-- 🎓 Artificial Intelligence Student at **Benha University**
-- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision & Generative AI**
-- 🔎 Currently focusing on **LLMs, RAG, AI Agents, Embeddings & AI Evaluation**
-- 💻 Experienced in building end-to-end ML and AI applications
-- 🚀 Interested in **Generative AI, Agentic AI, RAG & AI Automation**
-- 🐍 Main programming language: **Python**
-- 🤝 Open to internships, collaborations, and AI/ML projects
+---
+
+## 👨‍💻 About Me
+
+I'm **Mohamed Ayman**, an Artificial Intelligence student at **Benha University, Egypt**, passionate about building practical AI systems and solving real-world problems.
+
+My main interests are **Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG, and AI Agents**.
+
+* 🎓 Artificial Intelligence Student at **Benha University**
+* 🤖 Focused on **Machine Learning & Generative AI**
+* 🔎 Currently exploring **LLMs, RAG, Embeddings, AI Agents & LLM Evaluation**
+* 🧠 Interested in building **production-oriented AI systems**
+* 💻 Experienced in developing **end-to-end ML & AI applications**
+* 🐍 Main programming language: **Python**
+* 🚀 Interested in **Generative AI, Agentic AI, RAG & AI Automation**
+* 🤝 Open to **Internships, Collaborations & AI/ML Projects**
 
 ---
 
@@ -26,38 +39,44 @@ I'm **Mohamed Ayman**, an Artificial Intelligence student from Egypt passionate 
 
 ### 🤖 Machine Learning
 
-`Scikit-learn` `Supervised Learning` `Unsupervised Learning`  
-`Feature Engineering` `Model Evaluation` `Cross-Validation` `Hyperparameter Tuning`
+`Scikit-learn` `Supervised Learning` `Unsupervised Learning`
+`Feature Engineering` `Cross-Validation` `Model Evaluation`
+`Hyperparameter Tuning`
 
 ### 🧠 Deep Learning
 
-`TensorFlow` `Keras` `CNN` `RNN` `LSTM` `GRU`
+`TensorFlow` `Keras`
+`CNN` `RNN` `LSTM` `GRU`
 
 ### ✨ Generative AI & LLMs
 
-`LLMs` `RAG` `Prompt Engineering` `Embeddings`  
-`Semantic Search` `Grounded Generation` `LLM Evaluation`
+`LLMs` `RAG` `Prompt Engineering`
+`Embeddings` `Semantic Search`
+`Grounded Generation` `LLM Evaluation`
 
-### 🔤 NLP
+### 🔤 Natural Language Processing
 
-`Text Preprocessing` `Tokenization` `Vectorization`  
-`Text Classification` `Sequence Modeling`
+`Text Preprocessing` `Tokenization`
+`Vectorization` `Text Classification`
+`Sequence Modeling`
 
-### 🔎 RAG & AI Tools
+### 🔎 RAG & AI Infrastructure
 
-`LangChain` `Hugging Face` `Sentence Transformers` `ChromaDB`
+`LangChain` `Hugging Face`
+`Sentence Transformers` `ChromaDB`
 
 ### 🤖 Agentic AI
 
-`AI Agents` `Tool Calling` `Agent Loops`  
-`Multi-Agent Systems` `Agent Memory` `MCP`  
-`Agent Evaluation` `AI Automation`
+`AI Agents` `Tool Calling` `Agent Loops`
+`Multi-Agent Systems` `Agent Memory`
+`MCP` `Agent Evaluation` `AI Automation`
 
 ### ⚙️ Backend & Development
 
-`FastAPI` `REST APIs` `Uvicorn` `Git` `GitHub`
+`FastAPI` `REST APIs` `Uvicorn`
+`Git` `GitHub`
 
-### 📊 Data Analysis
+### 📊 Data & Visualization
 
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
@@ -67,63 +86,73 @@ I'm **Mohamed Ayman**, an Artificial Intelligence student from Egypt passionate 
 
 ## 🏥 NG59 Grounded RAG Assistant
 
-An end-to-end **Retrieval-Augmented Generation (RAG)** system built around the **NICE NG59 clinical guideline**.
+An end-to-end **Retrieval-Augmented Generation system** built around the **NICE NG59 clinical guideline**.
 
-### 🔥 What I Built
+### 🔥 Key Features
 
-- 📄 PDF parsing and document processing
-- 🧹 Text cleaning and preprocessing
-- ✂️ Text chunking
-- 🔢 Embedding generation
-- 🔍 Semantic search
-- 🎯 Top-K retrieval
-- 🗄️ ChromaDB vector database
-- 🤖 Grounded question answering
-- 📑 Citation validation
-- 🛡️ Confidence-based refusal
-- 🚫 Unsupported-claim detection
-- 📊 Retrieval and answer evaluation
-- ⚡ FastAPI backend
-- 🌐 Interactive web frontend
+* 📄 PDF document parsing
+* 🧹 Text cleaning & preprocessing
+* ✂️ Intelligent text chunking
+* 🔢 Embedding generation
+* 🔍 Semantic search
+* 🎯 Top-K retrieval
+* 🗄️ ChromaDB vector database
+* 🤖 Grounded question answering
+* 📑 Citation validation
+* 🛡️ Confidence-based refusal
+* 🚫 Unsupported-claim detection
+* 📊 Retrieval & answer evaluation
+* ⚡ FastAPI backend
+* 🌐 Interactive web frontend
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
-`Python` `LangChain` `Hugging Face`  
-`Sentence Transformers` `ChromaDB` `FastAPI` `RAG` `LLMs`
+`Python` `LangChain` `Hugging Face`
+`Sentence Transformers` `ChromaDB`
+`FastAPI` `RAG` `LLMs`
+
+🔗 **[View Project](https://github.com/Mohamed010Ayman)**
 
 ---
 
 ## ❤️ Heart Disease Prediction
 
-Machine Learning classification project for predicting heart disease risk.
+A Machine Learning classification system designed to predict **heart disease risk**.
 
-### 🔥 What I Built
+### 🔥 Key Features
 
-- Data preprocessing
-- Missing-value handling
-- Feature engineering
-- Model training
-- Multiple classification models
-- Model comparison
-- Performance evaluation
+* Data preprocessing
+* Missing-value handling
+* Feature engineering
+* Multiple classification models
+* Model comparison
+* Performance evaluation
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
-🔗 [View Project](https://github.com/Mohamed010Ayman/Heart-Disease-Prediction)
+🔗 **[View Project](https://github.com/Mohamed010Ayman/Heart-Disease-Prediction)**
 
 ---
 
 ## 💳 Fraud Detection
 
-Machine Learning project focused on detecting fraudulent financial transactions.
+A Machine Learning project focused on identifying **fraudulent financial transactions**.
 
-### 🛠️ Technologies
+### 🔥 Key Features
+
+* Data preprocessing
+* Feature analysis
+* Classification modeling
+* Model evaluation
+* Fraud detection pipeline
+
+### 🛠️ Tech Stack
 
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
-🔗 [View Project](https://github.com/Mohamed010Ayman/Fraud-Detection-ML)
+🔗 **[View Project](https://github.com/Mohamed010Ayman/Fraud-Detection-ML)**
 
 ---
 
@@ -131,23 +160,29 @@ Machine Learning project focused on detecting fraudulent financial transactions.
 
 ### Bachelor of Science in Artificial Intelligence
 
-**Faculty of Engineering, Benha University**  
+**Faculty of Engineering — Benha University**
+
 📅 **2023 – 2027**
 
 ---
 
 # 📜 Training & Certifications
 
-### Machine Learning Training — NTI Egypt
+### 🎓 Machine Learning Training — NTI Egypt
 
-- Machine Learning using Python and Scikit-learn
-- Supervised and Unsupervised Learning
-- Model Training and Evaluation
-- Practical Machine Learning Projects
+Covered:
+
+* Machine Learning using Python
+* Scikit-learn
+* Supervised Learning
+* Unsupervised Learning
+* Model Training
+* Model Evaluation
+* Practical Machine Learning Projects
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -163,7 +198,7 @@ Machine Learning project focused on detecting fraudulent financial transactions.
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -172,26 +207,30 @@ Machine Learning project focused on detecting fraudulent financial transactions.
   LinkedIn
 </a>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+   •   
 
 <a href="https://www.upwork.com/freelancers/~01688164c04bcb0a5b">
   <img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/>
   Upwork
 </a>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+   •   
 
 <a href="mailto:mohamed.ayman.yahya1@gmail.com">
   <img src="https://img.icons8.com/material-outlined/27/000000/new-post.png"/>
   Email
 </a>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+   •   
 
-📞 +20 106 497 6258
+📞 **+20 106 497 6258**
 
 </p>
 
 ---
 
+<p align="center">
+
 ### 💡 Building AI systems that solve real-world problems.
+
+</p>
